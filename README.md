@@ -25,3 +25,4 @@ Specifications of the modal:
 3. Add a simple text input. This will be the `title` property.
 4. Add a select input with fake icon names. The icons do not exist yet and you can call them somthing like `icon-1`, `icon-2`, `icon-3`, etc...This will be the `icon` property.
 5. Add a `Vue.js` color picker plugin of your choice and let users pick a color. This will be the `color` property.
+6. When you click on `save` in the modal, store `location`,`title`, `icon` and `color` to the list item and close the modal.
