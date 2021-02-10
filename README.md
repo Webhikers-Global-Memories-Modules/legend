@@ -1,6 +1,6 @@
 # legend
 
-This is going to be a basic `component` that enables you to create a list of `places`. 
+This is going to be a basic `component` that enables you to create and edit a list of `places`. 
 
 You can `create`, `update`, and `delete` `place-items` in the list. No `API`, no Database and no storage is required.
 
