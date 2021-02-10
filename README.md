@@ -2,7 +2,7 @@
 
 This is going to be a basic `component` that enables you to create and edit a list of `places`. 
 
-You can `create`, `update`, and `delete` `place-items` in the list. No `API`, no Database and no storage is required.
+You can `create`, `update`, and `delete` `place-items` in the list. No `API`, no database and no storage is required.
 
 **no styling or css is required at all, we only need functionality for now!!**
 
